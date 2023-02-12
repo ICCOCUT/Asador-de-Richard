@@ -9,7 +9,8 @@ export default function Home() {
 				<meta
 					name='description'
 					content='El asador de Richard tiene gran ambiente y una variedad de carnes a la brasa.
-					cervezas completan esta experiencia. Ven y disfruta de una comida inolvidable.'></meta>
+					cervezas completan esta experiencia. Ven y disfruta de una comida inolvidable.'
+				/>
 				<link rel='icon' href='/favicon.ico' />
 				{/* Facebook meta tags */}
 				<meta property='og:url' content='www.elasadorderichard.live/' />

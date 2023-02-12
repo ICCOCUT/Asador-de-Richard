@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img id="readme-top" src="projectPreview.png" alt="Logo" >
+  <a href="https://www.elasadorderichard.live/">
+    <img id="readme-top" src="ProjectPreview.png" alt="Logo" >
   </a>
 
   <h3 name="readme-top" align="center">El-Asador-De-Richard</h3>
