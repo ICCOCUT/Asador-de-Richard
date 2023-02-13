@@ -1,6 +1,5 @@
 import React from 'react';
 import Link from 'next/link';
-import Logo from './logo.svg';
 import Image from 'next/image';
 import Carrito from './carrito.svg';
 
@@ -11,7 +10,13 @@ export default function Header() {
 				<div className='flex h-16 items-center justify-between'>
 					<div className='md:flex md:items-center md:gap-12'>
 						<Link className='block' href='/'>
-							<Image src={Logo} alt='empresa' className='h-14 w-auto' />
+							<Image
+								src='/logo.svg'
+								width='10'
+								height='10'
+								alt='empresa'
+								className='h-14 w-auto'
+							/>
 						</Link>
 					</div>
 
@@ -54,7 +59,13 @@ export default function Header() {
 					</div>
 
 					<div className='flex items-center gap-4 '>
-						<Image src={Carrito} alt='empresa' className='h-14 w-auto' />
+						<Image
+							src='/carrito.svg'
+							width='10'
+							height='10'
+							alt='empresa'
+							className='h-14 w-auto'
+						/>
 						<div className='border-2 border-l-primaryYellow border-transparent'>
 							<p className='text-primaryYellow'>+52 33 2038 0734</p>
 							<p className='text-primaryYellow'>
