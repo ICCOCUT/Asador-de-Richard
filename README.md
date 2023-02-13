@@ -66,6 +66,7 @@ En esta sección se enumerar los principales frameworks/bibliotecas utilizados p
 
 - [![Next][next.js]][next-url]
 - [![React][react.js]][react-url]
+- [![Tailwind.css][tailwind.css]][tailwind.css]
 
 <p align="right">(<a href="#readme-top">Regresar al inicio</a>)</p>
 
@@ -117,7 +118,7 @@ _Para más ejemplos, revisa la [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [ ] Agregar El footer
+- [x] Agregar El footer
 - [ ] Terminar la landing page
 - [ ] Terminar el diseño de la aplicación
 - [ ] Terminar las demás rutas
@@ -186,3 +187,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [next-url]: https://nextjs.org/
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
+[tailwind.css]: https://img.shields.io/badge/Tailwindcss-20232A?style=for-the-badge&logo=TailwindCSS&logoColor=#06B6D4
+[tailwind.css]: https://tailwindcss.com/
