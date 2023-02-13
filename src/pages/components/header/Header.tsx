@@ -1,7 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import Carrito from './carrito.svg';
 
 export default function Header() {
 	return (
@@ -81,7 +80,9 @@ export default function Header() {
 						</div>
 
 						<div className='block md:hidden'>
-							<button className='rounded bg-primaryGray p-2 text-primaryYellow transition hover:'>
+							<button
+								type='button'
+								className='rounded bg-primaryGray p-2 text-primaryYellow transition hover:'>
 								<svg
 									xmlns='http://www.w3.org/2000/svg'
 									className='h-5 w-5'
