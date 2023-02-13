@@ -1,5 +1,10 @@
 import Head from 'next/head';
 
+/**
+ * Devuelve un fragmento de React que contiene un elemento principal con un título, dos metaelementos y
+ * un elemento de enlace, seguido de un elemento principal que contiene dos elementos h1.
+ * @returns Un componente de reacción
+ */
 export default function Platillos() {
 	return (
 		<>

@@ -1,5 +1,24 @@
 import Head from 'next/head';
 
+/**
+ * Es una función que devuelve un componente React.
+ *
+ * El componente React es un fragmento que contiene un encabezado, un principal y un h1.
+ *
+ * El encabezado contiene un título, una meta descripción, una meta ventana gráfica y un enlace a un
+ * favicon.
+ *
+ * El principal contiene un h1 y un h1.
+ *
+ * El primer h1 tiene un nombre de clase de text-3xl font-negrita subrayado.
+ *
+ * El segundo h1 no tiene className.
+ *
+ * La primera h1 contiene el texto El Asador de Richard.
+ *
+ * El segundo h1 contiene el texto sobre.
+ * @returns Un componente React.
+ */
 export default function About() {
 	return (
 		<>

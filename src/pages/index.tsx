@@ -1,5 +1,10 @@
 import Head from 'next/head';
 
+/**
+ * Devuelve un elemento JSX que contiene un componente Head que contiene un título, metaetiquetas y un
+ * enlace al favicon
+ * @returns Un componente React.
+ */
 export default function Home() {
 	return (
 		<>
