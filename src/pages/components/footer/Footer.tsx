@@ -1,5 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
+import Link from 'next/link';
 
 export default function Footer() {
 	return (
@@ -51,18 +52,32 @@ export default function Footer() {
 						</h2>
 						<nav className='list-none mb-10'>
 							<li>
-								<a className='text-gray-100 hover:text-teal-300'>Menú</a>
+								<Link
+									href='/menu'
+									className='text-gray-100 hover:text-teal-300'>
+									Menú
+								</Link>
 							</li>
 							<li>
-								<a className='text-gray-100 hover:text-teal-300'>
+								<Link
+									href='/about'
+									className='text-gray-100 hover:text-teal-300'>
 									Quienes somos
-								</a>
+								</Link>
 							</li>
 							<li>
-								<a className='text-gray-100 hover:text-teal-300'>Contacto</a>
+								<Link
+									href='/contacto'
+									className='text-gray-100 hover:text-teal-300'>
+									Contacto
+								</Link>
 							</li>
 							<li>
-								<a className='text-gray-100 hover:text-teal-300'>Galería</a>
+								<Link
+									href='/platillos'
+									className='text-gray-100 hover:text-teal-300'>
+									Galería
+								</Link>
 							</li>
 						</nav>
 					</div>
