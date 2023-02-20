@@ -2,6 +2,11 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
+/**
+ * Devuelve un encabezado con un logotipo, un navegador y un botón.
+ * @returns Un encabezado con un logotipo, un navegador y un botón.
+ */
+
 export default function Header() {
 	return (
 		<header aria-label='Site Header' className='bg-primaryGray fixed w-full'>
@@ -60,7 +65,7 @@ export default function Header() {
 									width={40}
 									height={40}
 								/>
-								<div className='border-l-2 border-primaryYellow'></div>
+								<div className='border-l-2 border-primaryYellow' />
 							</div>
 							<div className='hidden sm:flex'>
 								<Link
@@ -71,17 +76,19 @@ export default function Header() {
 							</div>
 						</div>
 						<div className='block md:hidden'>
-							<button className='rounded bg-transparent p-2 text-primaryYellow transition hover:text-gray-600/75'>
+							<button
+								type='button'
+								className='rounded bg-transparent p-2 text-primaryYellow transition hover:text-gray-600/75'>
 								<svg
 									xmlns='http://www.w3.org/2000/svg'
 									className='h-5 w-5'
 									fill='none'
 									viewBox='0 0 24 24'
 									stroke='currentColor'
-									stroke-width='2'>
+									strokeWidth='2'>
 									<path
-										stroke-linecap='round'
-										stroke-linejoin='round'
+										strokeLinecap='round'
+										strokeLinejoin='round'
 										d='M4 6h16M4 12h16M4 18h16'
 									/>
 								</svg>

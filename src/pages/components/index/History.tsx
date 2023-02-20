@@ -1,6 +1,14 @@
 import React from 'react';
 import Image from 'next/image';
 
+/**
+ * Devuelve un elemento de sección con un elemento div dentro, que contiene dos elementos div, uno de
+ * los cuales contiene un elemento h2 y un elemento p, y el otro contiene un elemento de imagen
+ * @returns Una sección con un contenedor con un flex div con un flex div con un flex div con un flex
+ * div con un flex div con un flex div con un flex div con un flex div con un flex div con un flex div
+ * con un flex div con un flex div con un flex div con un flex div con un flex div con un flex div con
+ * un flex div con un flex div con un flex
+ */
 export default function History() {
 	return (
 		<section className='text-gray-400 bg-primaryGray body-font'>

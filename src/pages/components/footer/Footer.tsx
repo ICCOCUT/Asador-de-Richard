@@ -2,6 +2,10 @@ import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 
+/**
+ * Devuelve un pie de página con un logotipo, un menú de navegación y un aviso de derechos de autor.
+ * @returns Un componente de pie de página con un logotipo, navegación y derechos de autor.
+ */
 export default function Footer() {
 	return (
 		<footer className='text-gray-400 bg-primaryGray body-font'>

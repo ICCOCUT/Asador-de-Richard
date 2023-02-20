@@ -10,6 +10,7 @@ import Chefs from './components/index/Chefs';
  * enlace al favicon
  * @returns Un componente React.
  */
+
 export default function Home() {
 	return (
 		<>

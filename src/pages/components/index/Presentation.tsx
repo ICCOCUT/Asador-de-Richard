@@ -1,6 +1,11 @@
 import React from 'react';
 import Image from 'next/image';
 
+/**
+ * Devuelve una sección con un contenedor con un div con un flex con un div con una p con un lapso.
+ * @returns Una sección con un contenedor con un div con un flex con una sección con un div con un flex
+ * con una sección con un div con un flex con una sección
+ */
 export default function Presentation() {
 	return (
 		<section

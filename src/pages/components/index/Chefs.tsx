@@ -1,6 +1,10 @@
 import React from 'react';
 import Image from 'next/image';
 
+/**
+ * Devuelve un div con una sección dentro de él.
+ * @returns Un div con una sección dentro de él.
+ */
 export default function Chefs() {
 	return (
 		<div className='bg-primaryGray'>

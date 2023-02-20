@@ -1,6 +1,11 @@
 import React from 'react';
 import Image from 'next/image';
 
+/**
+ * Devuelve una sección con un contenedor que tiene un div con una clase flexible y un div con una
+ * clase flexible.
+ * @returns Una sección con un contenedor con un div con un div con un h2 con un lapso con un texto.
+ */
 export default function Galery() {
 	return (
 		<section className='text-gray-400 bg-primaryGray body-font'>
