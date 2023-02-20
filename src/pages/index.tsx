@@ -3,7 +3,7 @@ import Presentation from './components/index/Presentation';
 import History from './components/index/History';
 import Hero from './components/index/Hero';
 import Galery from './components/index/Galery';
-import Chefs from './components/index/chefs';
+import Chefs from './components/index/Chefs';
 
 /**
  * Devuelve un elemento JSX que contiene un componente Head que contiene un título, metaetiquetas y un
