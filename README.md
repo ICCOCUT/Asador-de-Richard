@@ -16,6 +16,8 @@
     <br />
     <a href="https://www.elasadorderichard.live/">Ver Demo</a>
     ·
+    <a href="https://www.figma.com/file/rKpg5zlFBmPVT1mzdyDhZN/Restaurant-landing-page-(Community)?node-id=0%3A1&t=LEL7q0UnUB6pJezl-0">Ver Diseño</a>
+    ·
     <a href="https://github.com/ICCOCUT/Asador-de-Richard/issues">Reportar Bug</a>
   </p>
 </div>
