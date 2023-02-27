@@ -139,16 +139,16 @@ _Para más ejemplos, revisa la [Documentation](https://example.com)_
 
 ## Contribución
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Las contribuciones son lo que hace que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. Cualquier contribución que hagas será **muy apreciada**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Si tienes alguna sugerencia para mejorar esto, por favor haz un fork del repositorio y crea un pull request. También puedes abrir una issue con la etiqueta "mejora".
+No olvides darle una estrella al proyecto. Gracias de nuevo.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork del Proyecto
+2. Crea una rama de función (`git checkout -b feature/AmazingFeature`)
+3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Push a la rama (`git push origin feature/AmazingFeature`)
+5. Abre la Pull Request
 
 <p align="right">(<a href="#readme-top">Regresar al inicio</a>)</p>
 
@@ -164,7 +164,9 @@ Distribuido bajo la Licencia MIT. Consulte `LICENSE.txt` para más información.
 
 ## Contacto
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Fufinop - [@Fufinop](https://twitter.com/Fufinop) - [ernestodelazamora@gmail.com](mailto:ernestodelazamora@gmail.com)
+
+Fernando-droidx - [@Fernando](https://www.facebook.com/profile.php?id=100004615576297) - [correo](mailto:luis.ramirez4415@alumnos.udg.mx)
 
 <p align="right">(<a href="#readme-top">Regresar al inicio</a>)</p>
 
@@ -172,13 +174,9 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 
 ## Agradecimientos
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Utilizamos este espacio para enumerar los recursos que nos resultaron útiles y a los que te gustaría dar crédito. He incluido algunos de mis favoritos para empezar.
 
 - [Choose an Open Source License](https://choosealicense.com)
-- [Img Shields](https://shields.io)
-- [GitHub Pages](https://pages.github.com)
-- [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">Regresar al inicio</a>)</p>
 
