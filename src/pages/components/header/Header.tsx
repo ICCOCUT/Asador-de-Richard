@@ -10,7 +10,7 @@ import Image from 'next/image';
 export default function Header() {
 	return (
 		<header aria-label='Site Header' className='bg-primaryGray fixed w-full'>
-			<div className='mx-auto  px-4 sm:px-6 lg:px-8'>
+			<div className='mx-auto px-4 sm:px-6 lg:px-8'>
 				<div className='flex h-16 items-center justify-between'>
 					<div className='md:flex md:items-center md:gap-12'>
 						<Link className='block text-teal-600 dark:text-teal-600' href='/'>
